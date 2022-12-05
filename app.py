@@ -13,7 +13,7 @@ def shumzim(x, y):
 def pjestim(x, y):
     return x / y
 
-# Printo opsionet e mundshme ne ekran 
+# Printo opsionet aritmetike ne ekran
 print("Zgjidhni Operatorin Aritmetik:")
 print("1.Mbledhje")
 print("2.Zbritje")
