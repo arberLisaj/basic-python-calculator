@@ -1,6 +1,4 @@
-# Per te perdorur komente ne Python perdorim hashtag #
 
-# Deklarojm funksionet qe do perdorim ne makinen tone llogaritese
 def mbledhje(x, y):
     return x + y
 
